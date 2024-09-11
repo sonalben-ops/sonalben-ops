@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sonal-Rami
+- 👀 I’m interested in Natural Language Processing
+- 🌱 I’m a final year Master's in Artificial Intelligence and Machine Learning student at Indian Institute of Technology Jammu.
+- 💞️ I’m looking to collaborate on **Open Source Projects, Learning Opportunities, Hackathons, Mentorning and Pair Programming**
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/sonal-rami-807b67147/) or [E-mail](sonal.itit29@gmail.com).
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I created a program to play Tic-Tac-Toe in excel with macro programming!
